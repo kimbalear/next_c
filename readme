@@ -1,0 +1,22 @@
+requisitos:
+Node
+NVM
+FNM
+
+Instalar NEXT JS
+CLI yarn create next-app (Automática)
+manual
+
+npm init -y - todo yes
+yarn add next react react-dom
+
+"scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+
+  -------------------------
+  hot reloading
+  fast refresh
+  -------------------------
